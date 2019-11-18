@@ -5,4 +5,4 @@
 *.out
 *.pdf
 *.sync*
-./.vscode/settings.json
+.vscode/
